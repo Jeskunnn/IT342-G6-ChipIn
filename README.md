@@ -2,22 +2,12 @@
 
 ChipIn
 
-Member 3
-NAME: SPENCER Z. NACARIO
-COURSE & YEAR: BSIT 4
+ChipIn is a collaborative expense tracking system designed for groups who share expenses during events such as trips, parties, or group purchases. It simplifies the process of tracking and settling shared expenses by automatically calculating individual contributions and notifying members of their dues.
 
-Hello I am Spencer Nacario I am a software dev
-I love siomai rice.
+**Features**
 
+Feature 1: Login/Registration System
 
-Member1
-NAME: FRANCIS KYLE LORENZANA
-COURSE & YEAR: BSIT-3
-Hello I am Francis you can call me Kyle and I am a Technical Support
+Feature 2: Add Members
 
-Member2
-NAME: JESKIN T. VILLACARLOS
-COURSE & YEAR: BSIT-4
-Hello I am Jeskin and I am a software developer
-I am who I am
-
+Feature 3: Create Group Session
