@@ -7,5 +7,7 @@ ChipIn is a collaborative expense tracking system designed for groups who share 
 **Features**
 
 Feature 1: Login/Registration System
+
 Feature 2: Add Members
+
 Feature 3: Create Group Session
