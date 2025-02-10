@@ -1,6 +1,6 @@
-# IT342-G6-AgriClove
+# IT342-G6-ChipIn
 
-AgriClove
+ChipIn
 
 Member 3
 NAME: SPENCER Z. NACARIO
